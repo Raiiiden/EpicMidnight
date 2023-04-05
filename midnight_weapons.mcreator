@@ -1,0 +1,435 @@
+{
+  "mod_elements": [
+    {
+      "name": "Rippers",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rippers",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/RippersItem.java",
+          "src/main/resources/assets/midnight_weapons/models/item/rippers.json"
+        ]
+      }
+    },
+    {
+      "name": "DemonicBlade1",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demonic_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/DemonicBlade1Item.java",
+          "src/main/resources/assets/midnight_weapons/models/item/demonic_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "RiversOfBlood1",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rivers_of_blood",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/rivers_of_blood.json",
+          "src/main/java/net/mcreator/midnightweapons/item/RiversOfBlood1Item.java"
+        ]
+      }
+    },
+    {
+      "name": "EnderBlade1",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ender_blade",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/EnderBlade1Item.java",
+          "src/main/resources/assets/midnight_weapons/models/item/ender_blade.json"
+        ]
+      }
+    },
+    {
+      "name": "EagleClaw1",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eagle_claw",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/EagleClaw1Item.java",
+          "src/main/resources/assets/midnight_weapons/models/item/eagle_claw.json"
+        ]
+      }
+    },
+    {
+      "name": "HeroicSword1",
+      "type": "tool",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heroic_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/heroic_sword.json",
+          "src/main/java/net/mcreator/midnightweapons/item/HeroicSword1Item.java"
+        ]
+      }
+    },
+    {
+      "name": "EagleFang1",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eagle_fang",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/eagle_fang.json",
+          "src/main/java/net/mcreator/midnightweapons/item/EagleFang1Item.java"
+        ]
+      }
+    },
+    {
+      "name": "DeathBringer1",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "death_bringer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/death_bringer.json",
+          "src/main/java/net/mcreator/midnightweapons/item/DeathBringer1Item.java"
+        ]
+      }
+    },
+    {
+      "name": "RoyalSlash1",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "royal_slash",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/royal_slash.json",
+          "src/main/java/net/mcreator/midnightweapons/item/RoyalSlash1Item.java"
+        ]
+      }
+    },
+    {
+      "name": "GhastlySpear1",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ghastly_spear",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/ghastly_spear.json",
+          "src/main/java/net/mcreator/midnightweapons/item/GhastlySpear1Item.java"
+        ]
+      }
+    },
+    {
+      "name": "BloodThirst1",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blood_thirst",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/blood_thirst.json",
+          "src/main/java/net/mcreator/midnightweapons/item/BloodThirst1Item.java"
+        ]
+      }
+    },
+    {
+      "name": "GoldenBattleaxe1",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "golden_battleaxe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/GoldenBattleaxe1Item.java",
+          "src/main/resources/assets/midnight_weapons/models/item/golden_battleaxe.json"
+        ]
+      }
+    },
+    {
+      "name": "Devourer1",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "devourer",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/Devourer1Item.java",
+          "src/main/resources/assets/midnight_weapons/models/item/devourer.json"
+        ]
+      }
+    },
+    {
+      "name": "ArchangelSword",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "archangel_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/ArchangelSwordItem.java",
+          "src/main/resources/assets/midnight_weapons/models/item/archangel_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "ArchangelSpear",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "archangel_spear",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/ArchangelSpearItem.java",
+          "src/main/resources/assets/midnight_weapons/models/item/archangel_spear.json"
+        ]
+      }
+    },
+    {
+      "name": "HolyLongsword",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "holy_longsword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/HolyLongswordItem.java",
+          "src/main/resources/assets/midnight_weapons/models/item/holy_longsword.json"
+        ]
+      }
+    },
+    {
+      "name": "DemonicLongsword",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demonic_longsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/demonic_longsword.json",
+          "src/main/java/net/mcreator/midnightweapons/item/DemonicLongswordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "AmongusFists",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "among_us_fists",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/AmongusFistsItem.java",
+          "src/main/resources/assets/midnight_weapons/models/item/among_us_fists.json"
+        ]
+      }
+    },
+    {
+      "name": "RedAxeTempTest",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dragonfire_great_axe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/RedAxeTempTestItem.java",
+          "src/main/resources/assets/midnight_weapons/models/item/dragonfire_great_axe.json"
+        ]
+      }
+    },
+    {
+      "name": "Everbleeder",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "everbleeder",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/EverbleederItem.java",
+          "src/main/resources/assets/midnight_weapons/models/item/everbleeder.json"
+        ]
+      }
+    },
+    {
+      "name": "CrimsonShadowblade",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crimson_shadowblade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/crimson_shadowblade.json",
+          "src/main/java/net/mcreator/midnightweapons/item/CrimsonShadowbladeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MoonlightDagger",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moonlight_dagger",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/moonlight_dagger.json",
+          "src/main/java/net/mcreator/midnightweapons/item/MoonlightDaggerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MoonlightGlaive",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moonlight_glaive",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/moonlight_glaive.json",
+          "src/main/java/net/mcreator/midnightweapons/item/MoonlightGlaiveItem.java"
+        ]
+      }
+    },
+    {
+      "name": "MoonlightDaggerRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moonlight_dagger_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/midnight_weapons/recipes/moonlight_dagger_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "HeiLongJian",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hei_long_jian",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/HeiLongJianItem.java",
+          "src/main/resources/assets/midnight_weapons/models/item/hei_long_jian.json"
+        ]
+      }
+    },
+    {
+      "name": "Muramasa",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "muramasa",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/muramasa.json",
+          "src/main/java/net/mcreator/midnightweapons/item/MuramasaItem.java"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldianGreatsword",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emeraldian_greatsword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/midnight_weapons/models/item/emeraldian_greatsword.json",
+          "src/main/java/net/mcreator/midnightweapons/item/EmeraldianGreatswordItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.midnight_weapons.among_us_fists": "Among Us Fists",
+      "item.midnight_weapons.rippers": "Rippers",
+      "item.midnight_weapons.golden_battleaxe": "Golden Battleaxe",
+      "item.midnight_weapons.archangel_spear": "Archangel Spear",
+      "item.midnight_weapons.death_bringer": "Death Bringer",
+      "item.midnight_weapons.everbleeder": "Everbleeder",
+      "item.midnight_weapons.rivers_of_blood": "Rivers Of Blood",
+      "item.midnight_weapons.emeraldian_greatsword": "Emeraldian Greatsword",
+      "item.midnight_weapons.holy_longsword": "Holy Longsword",
+      "item.midnight_weapons.demonic_longsword": "Demonic Longsword",
+      "item.midnight_weapons.dragonfire_great_axe": "Dragonfire Great Axe",
+      "item.midnight_weapons.moonlight_glaive": "Moonlight Glaive",
+      "item.midnight_weapons.moonlight_dagger": "Moonlight Dagger",
+      "item.midnight_weapons.eagle_fang": "Eagle Fang",
+      "item.midnight_weapons.ender_blade": "Ender Blade",
+      "item.midnight_weapons.archangel_sword": "Archangel Sword",
+      "item.midnight_weapons.ghastly_spear": "Ghastly Spear",
+      "item.midnight_weapons.muramasa": "Muramasa",
+      "item.midnight_weapons.devourer": "Devourer",
+      "item.midnight_weapons.blood_thirst": "Blood Thirst",
+      "item.midnight_weapons.heroic_sword": "Heroic Sword",
+      "item.midnight_weapons.crimson_shadowblade": "Crimson Shadowblade",
+      "item.midnight_weapons.eagle_claw": "Eagle Claw",
+      "item.midnight_weapons.demonic_blade": "Demonic Blade",
+      "item.midnight_weapons.royal_slash": "Royal Slash",
+      "item.midnight_weapons.hei_long_jian": "Hei Long Jian"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "midnight_weapons",
+    "modName": "Midnight Weapons",
+    "version": "1.0.0",
+    "author": "Raiden S, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.midnightweapons",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

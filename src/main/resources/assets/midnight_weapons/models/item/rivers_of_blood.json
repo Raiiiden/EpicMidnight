@@ -1,0 +1,8 @@
+{
+  "parent": "midnight_weapons:custom/riversofblood",
+  "textures": {
+    "1": "midnight_weapons:blocks/riversofblood",
+    "missing": "midnight_weapons:blocks/",
+    "particle": "midnight_weapons:items/riversofblood"
+  }
+}

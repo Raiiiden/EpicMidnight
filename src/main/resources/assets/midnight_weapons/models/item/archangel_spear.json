@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/archangel_spear",
+  "textures": {
+    "1": "midnight_weapons:blocks/archangel_spear",
+    "particle": "midnight_weapons:items/archangel_spear"
+  }
+}

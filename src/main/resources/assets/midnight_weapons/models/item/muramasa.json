@@ -1,0 +1,12 @@
+{
+  "parent": "midnight_weapons:custom/hf_muramasa",
+  "textures": {
+    "0": "midnight_weapons:blocks/hf_muramasa1",
+    "1": "midnight_weapons:blocks/hf_muramasa2",
+    "2": "midnight_weapons:blocks/hf_muramasa3",
+    "3": "midnight_weapons:blocks/hf_muramasa4",
+    "4": "midnight_weapons:blocks/hf_muramasa5",
+    "5": "midnight_weapons:blocks/hf_muramasa_effect",
+    "particle": "midnight_weapons:items/hf_muramasa1"
+  }
+}

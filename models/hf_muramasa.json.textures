@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hf_muramasa1",
+        "1": "hf_muramasa2",
+        "2": "hf_muramasa3",
+        "3": "hf_muramasa4",
+        "4": "hf_muramasa5",
+        "5": "hf_muramasa_effect"
+      },
+      "name": "default"
+    }
+  }
+}

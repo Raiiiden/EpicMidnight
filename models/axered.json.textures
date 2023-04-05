@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "animations_1",
+        "3": "axe"
+      },
+      "name": "default"
+    }
+  }
+}

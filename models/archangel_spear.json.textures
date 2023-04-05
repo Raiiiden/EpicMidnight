@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "archangel_spear"
+      },
+      "name": "default"
+    }
+  }
+}

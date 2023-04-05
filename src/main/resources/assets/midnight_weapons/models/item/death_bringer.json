@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/death_bringer",
+  "textures": {
+    "0": "midnight_weapons:blocks/death_bringer",
+    "particle": "midnight_weapons:items/death_bringer"
+  }
+}

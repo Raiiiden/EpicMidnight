@@ -1,0 +1,13 @@
+newmtl m_e52e565c-c03b-b3da-4e84-29a595abc7c6
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd midnight_weapons:blocks/toro_wither
+Ns 100.0
+d 1.0
+newmtl none
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 100.0
+d 1.0

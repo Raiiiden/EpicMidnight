@@ -1,0 +1,7 @@
+{
+  "parent": "midnight_weapons:custom/golden_battleaxe",
+  "textures": {
+    "0": "midnight_weapons:blocks/golden_splitter",
+    "particle": "midnight_weapons:items/golden_splitter"
+  }
+}
