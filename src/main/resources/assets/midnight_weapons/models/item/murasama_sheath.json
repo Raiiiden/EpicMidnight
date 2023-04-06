@@ -1,0 +1,6 @@
+{
+  "parent": "midnight_weapons:custom/murasama_sheath",
+  "textures": {
+    "particle": "midnight_weapons:items/murasama_sheath"
+  }
+}

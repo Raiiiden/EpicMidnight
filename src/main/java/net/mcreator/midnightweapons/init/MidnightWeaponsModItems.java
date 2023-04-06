@@ -14,6 +14,7 @@ import net.mcreator.midnightweapons.item.RoyalSlash1Item;
 import net.mcreator.midnightweapons.item.RiversOfBlood1Item;
 import net.mcreator.midnightweapons.item.RippersItem;
 import net.mcreator.midnightweapons.item.RedAxeTempTestItem;
+import net.mcreator.midnightweapons.item.MurasamaSheathItem;
 import net.mcreator.midnightweapons.item.MuramasaItem;
 import net.mcreator.midnightweapons.item.MoonlightGlaiveItem;
 import net.mcreator.midnightweapons.item.MoonlightDaggerItem;
@@ -66,4 +67,5 @@ public class MidnightWeaponsModItems {
 	public static final RegistryObject<Item> HEI_LONG_JIAN = REGISTRY.register("hei_long_jian", () -> new HeiLongJianItem());
 	public static final RegistryObject<Item> MURAMASA = REGISTRY.register("muramasa", () -> new MuramasaItem());
 	public static final RegistryObject<Item> EMERALDIAN_GREATSWORD = REGISTRY.register("emeraldian_greatsword", () -> new EmeraldianGreatswordItem());
+	public static final RegistryObject<Item> MURASAMA_SHEATH = REGISTRY.register("murasama_sheath", () -> new MurasamaSheathItem());
 }

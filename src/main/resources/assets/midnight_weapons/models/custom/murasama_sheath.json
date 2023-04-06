@@ -1,0 +1,17 @@
+{
+  "credit": "Made with Blockbench",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        92.76,
+        3.5,
+        0.09
+      ],
+      "translation": [
+        6,
+        -19,
+        14.75
+      ]
+    }
+  }
+}

@@ -375,6 +375,20 @@
           "src/main/java/net/mcreator/midnightweapons/item/EmeraldianGreatswordItem.java"
         ]
       }
+    },
+    {
+      "name": "MurasamaSheath",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "murasama_sheath",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/midnightweapons/item/MurasamaSheathItem.java",
+          "src/main/resources/assets/midnight_weapons/models/item/murasama_sheath.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -382,8 +396,9 @@
   "language_map": {
     "en_us": {
       "item.midnight_weapons.among_us_fists": "Among Us Fists",
-      "item.midnight_weapons.rippers": "Rippers",
+      "item.midnight_weapons.murasama_sheath": "Murasama Sheath",
       "item.midnight_weapons.golden_battleaxe": "Golden Battleaxe",
+      "item.midnight_weapons.rippers": "Rippers",
       "item.midnight_weapons.archangel_spear": "Archangel Spear",
       "item.midnight_weapons.death_bringer": "Death Bringer",
       "item.midnight_weapons.everbleeder": "Everbleeder",
